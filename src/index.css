@@ -16,3 +16,11 @@ body {
 ::after {
   border-width: 0;
 }
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}

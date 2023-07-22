@@ -8,6 +8,7 @@ export default {
         "gray-black": "#1b1d1f",
         "primary-50": "#edeff6",
         "gray-700": "#363a3d",
+        "primary-400": "#1890ff",
         "primary-500": "#4a60a1",
         "gray-white": "#fff",
         whitesmoke: {
