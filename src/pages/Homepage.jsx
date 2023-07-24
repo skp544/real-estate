@@ -1,4 +1,13 @@
-import { AreaProperties, Feature, Header, HomeFinder } from "../components";
+import {
+  AreaProperties,
+  Contact,
+  Feature,
+  Footer,
+  Header,
+  HomeFinder,
+  RentPropertiesContainer,
+  RentPropertiesFilter,
+} from "../components";
 
 const Homepage = () => {
   return (
@@ -7,6 +16,10 @@ const Homepage = () => {
       <HomeFinder />
       <AreaProperties />
       <Feature />
+      <RentPropertiesContainer />
+      <RentPropertiesFilter />
+      <Contact />
+      <Footer />
     </div>
   );
 };
