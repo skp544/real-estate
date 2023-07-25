@@ -18,6 +18,8 @@ import SocialMediaLogo2 from "./icons/social-media-logo1.svg";
 import SocialMediaLogo3 from "./icons/social-media-logo2.svg";
 import SocialMediaLogo4 from "./icons/social-media-logo3.svg";
 import SocialMediaLogo5 from "./icons/social-media-logo4.svg";
+import Square4 from "./icons/squaresfour.svg";
+import ListBullet from "./icons/listbullets.svg";
 
 export {
   // icons
@@ -41,6 +43,8 @@ export {
   SocialMediaLogo3,
   SocialMediaLogo4,
   SocialMediaLogo5,
+  Square4,
+  ListBullet,
 
   // // images
   // Card2,
