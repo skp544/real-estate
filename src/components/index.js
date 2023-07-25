@@ -10,6 +10,7 @@ import RentPropertiesFilter from "./RentPropertiesFilter";
 import PropertyRentCard from "./PropertyRentCard";
 import Contact from "./Contact";
 import Footer from "./Footer";
+import PropertiesGridContainer from "./PropertiesGridContainer";
 
 export {
   Header,
@@ -24,4 +25,5 @@ export {
   PropertyRentCard,
   Contact,
   Footer,
+  PropertiesGridContainer,
 };
